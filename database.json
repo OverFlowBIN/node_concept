@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": "first_post", "title": "My first post", "content": "Hello!" },
+    {
+      "id": "learn_nodejs",
+      "title": "노드 배우기",
+      "content": "JSON으로 데이터를 관리해 보기"
+    },
+    { "id": "hello32", "title": "hello32", "content": "my_new_content" }
+  ]
+}
